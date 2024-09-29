@@ -12,3 +12,9 @@ This repository contains all resources for the detection and analysis of Alzheim
   - Moderate Demented
   - Non Demented
   - Very Mild Demented
+
+2. [Merged_AD_ADNI](https://www.kaggle.com/datasets/architgupta16/merged-ad-and-adni/data)
+- The dataset is used in the 10 fold validation experiments.
+  - AD 
+  - CI 
+  - CN 
